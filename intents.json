@@ -8,5 +8,15 @@
     "patterns": ["what is your name", "do you have a nickname"],
     "responses": ["my name is Stephanie", "most people call me Steph"],
     "context_set": ""
+    },
+    {"tag": "doing",
+    "patterns": ["what are you doing right now", "what are you up to"],
+    "responses": ["I am learning to code", "I am eating lunch", "I am revising Python dictionaries"],
+    "context_set": ""
+    },
+    {"tag": "bye",
+    "patterns": ["goodbye", "nice chatting to you, bye", "speak to you next time, bye"],
+    "responses": ["bye, see you next time", "see you, have a nice day"],
+    "context_set": ""
     }
 ]}

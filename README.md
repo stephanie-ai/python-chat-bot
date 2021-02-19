@@ -3,4 +3,4 @@
 Technologies:
 - Python | nltk | stemmer | numpy | tflearn | tensorflow
 
-Start running the virtual environment and ask questions to the chat bot.
+Start running the virtual environment and have a conversation with the chat bot.
